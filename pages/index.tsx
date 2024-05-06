@@ -15,10 +15,10 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Hallo, mein Name ist Franziska.
+              Hi, my name is Franziska and my pronouns are she/her.
             </h1>
             <p className="description">
-              Ich lerne programmieren an der upleveled Codingschule.
+              I am learning coding at the upleveled bootcamp.
             </p>
 
             <Link href="/contact" className="cta">
